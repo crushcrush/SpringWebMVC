@@ -6,7 +6,7 @@ public class index {
 		
 		System.out.println(" ");
 		
-		System.out.println(" ");
+		
 	}
 
 }
